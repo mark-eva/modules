@@ -1,4 +1,9 @@
 
+#The terraform client version that was used at the time of writing
+terraform {
+    required_version = ">=0.12.7"
+}
+
 /*
 Define local input variables
 */
